@@ -23,7 +23,7 @@ This project utilizes the following publicly available datasets:
 - SQL analysis of healthcare trends and patterns
   - found in run_sql_queries.py 
 - Interactive Tableau dashboard for visualizing healthcare metrics
-  - found on [Tableau Public] (https://public.tableau.com/app/profile/sydney.casey/viz/EvaluationofDrugAuthorization/Story1#1)
+  - found on [Tableau Public](https://public.tableau.com/app/profile/sydney.casey/viz/EvaluationofDrugAuthorization/Story1#1)
 
 # Technical Stack
 
