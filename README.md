@@ -5,11 +5,9 @@ This project aims to create a comprehensive analytics dashboard focused on prior
 This project utilizes the following publicly available datasets:
 
 - CMS Provider Specific Data (Public Use)
-  -  Used for: Provider-specific information and service utilization data
-
+  - Used for: Provider-specific information and service utilization data
 - FDA National Drug Code Directory
   - Used for: Comprehensive drug information
-
 - Healthcare.gov Health Plan Information (2024)
   - Used for: Insurance plan data
 
