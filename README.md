@@ -18,12 +18,12 @@ This project utilizes the following publicly available datasets:
 # Features
 
 - Data processing and integration from multiple healthcare datasets
+  - found in generation_of_synthetic_data.py
+  - synthetic dataset can be found in synthetic_pa_data.csv
 - SQL analysis of healthcare trends and patterns
+  - found in run_sql_queries.py 
 - Interactive Tableau dashboard for visualizing healthcare metrics
-- Time trend analysis of prior authorization requests
-- Geographic analysis of approval rates
-- Correlation analysis between patient demographics and request outcomes
-- Identification of drugs with unusually long processing times
+  - found on [Tableau Public] (https://public.tableau.com/app/profile/sydney.casey/viz/EvaluationofDrugAuthorization/Story1#1)
 
 # Technical Stack
 
